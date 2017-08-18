@@ -12,6 +12,7 @@ and open the template in the editor.
     <body style="font-size: 50px;">
         <?php
         echo"hello world";
+        echo"configured with github";
         ?>
     </body>
 </html>
